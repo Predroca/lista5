@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Trabalho de WEB</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      height: 100vh;
+      background: linear-gradient(to bottom, #ff69b4, #ffffff);
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-family: Arial ;
+    }
+
+    .caixa-texto {
+      background-color: white;
+      width: 500px;
+      padding: 30px;
+      border-radius: 15px;
+      text-align: justify;
+      font-size: 14px;
+      color: #ADD8E6;
+    }
+  </style>
+</head>
+<body>
+
+  <div class="caixa-texto">
+    A Barbie é uma das bonecas mais famosas do mundo, criada pela empresa americana Mattel em 1959. Seu nome completo é Barbara Millicent Roberts, e ela foi idealizada por Ruth Handler, que se inspirou ao ver sua filha brincar com bonecas de papel que representavam mulheres adultas.
+
+Desde o seu lançamento, Barbie se tornou um ícone da cultura pop e da moda. Ao longo das décadas, ela já teve centenas de profissões, como médica, astronauta, presidente, engenheira e até jogadora de futebol. Isso ajudou a mostrar que meninas podem sonhar com qualquer carreira.
+
+Barbie também passou por várias mudanças para se adaptar aos tempos modernos. Hoje, existem Barbies com diferentes tons de pele, tipos de corpo, estilos de cabelo e roupas, representando melhor a diversidade do mundo real.
+  </div>
+
+</body>
+</html>
